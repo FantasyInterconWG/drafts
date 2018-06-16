@@ -1,5 +1,5 @@
 % FantasyIntercon Communications File (FCF)
-% Robert Miles and PixelHeroDev
+% Robert Miles and Noam Preil
 %
 
 ## Status of this Memo
