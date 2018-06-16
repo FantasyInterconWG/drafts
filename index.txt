@@ -1,0 +1,7 @@
+% Fantasy Intercon Working Group Draft Documents
+% Robert Miles &lt;khuxkm@tilde.team>
+% 
+
+## Abstract
+
+The point of this website is to host the working documents of the Fantasy Intercon Working Group.

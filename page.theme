@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="discount <?theme version?>">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title><?theme title?></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  <style>
+    blockquote{
+        border-left: thin solid yellowgreen; 
+        width: 80%;
+        margin:1em;
+        padding:0 1em;
+        }
+    body {
+        max-width:39em;
+        font-family:monospace;
+        color: #EEE;
+        background-color: #333;
+        font-size:1.2em;
+        margin: 0 .5em;
+        padding: 0 3em;
+        border-top: 5px solid #05f;
+    }
+    header:before {
+	content: "Collaborative";
+        background-color: #444;
+        margin: 0 -3em;
+        text-align:right;
+        text-transform: uppercase;
+        display: block;
+        padding: 1.5em 0;
+    }
+    h1, h2, h3, h4, h5 {
+        font-size: 1em;
+        font-weight: normal;
+        margin: 0;
+        padding: 0;
+    }
+    h1 {
+        font-weight: bold;
+        text-align: center;
+        }
+    h2, h3, h4, h5 {margin: 2em 0 1em -2em;}
+    a {color: yellowgreen;}
+    ul {padding-left:1.5em;}
+    nav#TOC{display:none;}
+    h1.title{margin:3em 0 1em 0;position:relative;top:3em;}
+    h2.author{margin:0 -2em;text-align:right;position:relative;top:-4em;}
+    h3.date{margin:0 -2em;position:relative;top:-5em;}
+    nav.navigation{position:absolute;top:0;left:.5em;}
+  </style>
+</head>
+<body>
+<header>
+<h1 class="title"><?theme title?></h1>
+<h2 class="author"><?theme author?></h2>
+<h3 class="date"><?theme date?></h3>
+</header>
+<?theme body?>
+<nav class="navigation"><p>[<a href="<?theme source?>">txt</a>] [<a href="map.html">map</a>]</p></nav>
+<!-- Other variables that discount interprets:
+<?theme dir?>
+<?theme style?>
+-->
+</body>
+</html>
+<!-- vim: set ft=html: -->
