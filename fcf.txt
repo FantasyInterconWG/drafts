@@ -1,0 +1,17 @@
+% FantasyIntercon Communications File (FCF)
+% Robert Miles and PixelHeroDev
+%
+
+## Status of this Memo
+
+This memo defines an Experimental Protocol for the Fantasy Console community.
+Discussion and suggestions for improvement are requested. Distribution of this memo is unlimited.
+
+## Abstract
+
+FantasyIntercon Communications Files are XML documents that define a set of text and markup to be displayed in Fantasy Consoles
+supporting the standard. The goal is to have a standard for networked connectivity between Fantasy Consoles.
+
+## Document Name
+
+An FCF document's name MUST end in the .fcf extension and MUST be accessible by the client.
